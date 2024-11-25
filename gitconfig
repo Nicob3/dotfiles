@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nicobeernaert@hotmail.com
+	name = Nicolas Beernaert
